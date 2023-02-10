@@ -10,3 +10,6 @@ the script contains the command to take the user to the home directory
 the long format 
 the script contains the command to list the contents of a file in a long format 
 
+hidden files
+this script contains the command to display all files even the hidden ones
+
